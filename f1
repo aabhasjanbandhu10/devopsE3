@@ -1,1 +1,65 @@
 line1
+
+
+
+git --version
+
+mkdir 222A4064
+
+cd 222A3064/
+
+ls
+
+
+git init
+
+git status
+
+touch f1 
+
+git init 
+
+git status 
+
+cat >> f1
+hello, i am aabhas 
+
+cat f1
+
+cat >> f2
+hello 
+
+cat f2
+
+git add .
+
+
+git commit -m "first program" f1
+
+
+
+git config --global user.email "aabhasjanbandhu10@gmail.com"
+git congig --global user.name "aabhas" 
+got config --global --list
+
+
+git log --oneline 
+
+git commit -am "final" 
+
+git log --oneline 
+
+
+git branch -M main 
+
+git remote add origin "  "
+
+git remote show origin
+
+
+
+
+
+
+
+
