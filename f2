@@ -1,1 +1,31 @@
 line2
+
+public class add {
+
+public static void main(String[] args) {
+
+int first 10;
+
+Dr.
+
+int second 20;
+
+int a,b,sum; +
+
+int add first + second;
+
+System.out.println(first + second + + add);
+
+a-Integer.parseInt(args[0]);
+
+b-Integer.parseInt(args[1]);
+
+sum = a + b;
+
+System.out.println("num 1: "+a);
+
+System.out.println("num 2: " +b);
+
+System.out.println("Sum of use input numbers: " + sum);
+
+} }
